@@ -1,0 +1,25 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrrGoodCat/node_server.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "MrrCat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrrGoodCat/node_server/issues"
+  },
+  "homepage": "https://github.com/MrrGoodCat/node_server#readme",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
+}
